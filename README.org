@@ -1,0 +1,10 @@
+* toadstool
+
+Toadstool is a library for pattern matching
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/kisp/toadstool.git   |
+| commit  | 7ff0bc8  |
+| systems | toadstool |
+|---------+-------------------------------------------|
+
