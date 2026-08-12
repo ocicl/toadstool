@@ -8,4 +8,4 @@ Toadstool is a library for pattern matching
 | systems | toadstool |
 |---------+-------------------------------------------|
 
- 
+  
